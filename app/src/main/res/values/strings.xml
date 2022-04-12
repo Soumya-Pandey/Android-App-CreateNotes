@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tick</string>
+
+    <string name="title">Notes</string>
+    <string name="add">Add Notes</string>
+    <string name="noteit">Jot Down Your Way</string>
+    <string name="titleis">Add Title</string>
+    <string name="description">Description</string>
+    <string name="buttonsave">Save</string>
+
+
+</resources>
